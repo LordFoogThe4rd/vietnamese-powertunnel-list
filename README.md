@@ -1,4 +1,4 @@
-# vietnam-censorship
+# vietnamese-powertunnel-list 
 Một danh sách những trang web bị chặn bởi các nhà mạng ở Việt Nam/A list of websites blocked by ISPs in Vietnam
 
 Sử dụng với https://github.com/krlvm/PowerTunnel
